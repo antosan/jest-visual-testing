@@ -13,6 +13,7 @@ Jest tests run in a `jsdom` environment are much faster than full-blown e2e test
 - [jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
 - [jest-transform-css](https://github.com/dferber90/jest-transform-css)
 - [awesome-regression-testing](https://github.com/mojoaxel/awesome-regression-testing)
+- [Automated visual regression testing with TypeScript, Playwright, Jest and Jest Image Snapshot](https://medium.com/nerd-for-tech/automated-visual-regression-testing-with-typescript-playwright-jest-and-jest-image-snapshot-86db6f3364f5)
 
 ## Run Locally
 
