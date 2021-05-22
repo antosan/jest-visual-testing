@@ -9,7 +9,7 @@ export function getJestImageSnapshotConfig(): MatchImageSnapshotOptions {
     // https://github.com/americanexpress/jest-image-snapshot#recommendations-when-using-ssim-comparison
     comparisonMethod: 'ssim',
     // anything less than 0.1% difference passes as the same
-    // failureThreshold: 0.001,
-    // failureThresholdType: 'percent'
+    failureThreshold: 0.001,
+    failureThresholdType: 'percent'
   };
 }
