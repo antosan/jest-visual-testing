@@ -7,4 +7,5 @@ module.exports = {
     '\\.(jpg|jpeg|png|gif|webp|svg)$': 'jest-transform-file',
   },
   testRegex: '(/__tests__/.*|\\.test)\\.(ts|tsx)$',
+  testEnvironment: 'jsdom',
 };
