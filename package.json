@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "test": "jest",
-    "test:watch": "jest --watchAll"
+    "test:watch": "jest --watchAll",
+    "update-packages": "npx ncu -u"
   },
   "keywords": [],
   "author": "Antony Sande <sandeantony@gmail.com>",
@@ -23,10 +24,10 @@
     "@types/jest": "^26.0.23",
     "@types/jest-image-snapshot": "^4.3.0",
     "@types/jsdom-screenshot": "^3.2.0",
-    "@types/node": "^15.6.1",
-    "@types/react": "^17.0.8",
+    "@types/node": "^15.12.1",
+    "@types/react": "^17.0.9",
     "babel-jest": "^27.0.2",
-    "jest": "^27.0.3",
+    "jest": "^27.0.4",
     "jest-image-snapshot": "^4.5.0",
     "jest-transform-css": "^2.1.0",
     "jest-transform-file": "^1.1.1",
