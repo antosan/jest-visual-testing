@@ -25,7 +25,7 @@
     "@types/jest": "^26.0.24",
     "@types/jest-image-snapshot": "^4.3.1",
     "@types/jsdom-screenshot": "^3.2.1",
-    "@types/node": "^16.3.1",
+    "@types/node": "^16.3.3",
     "@types/react": "^17.0.14",
     "babel-jest": "^27.0.6",
     "jest": "^27.0.6",
